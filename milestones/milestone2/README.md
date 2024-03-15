@@ -25,7 +25,7 @@
 - This is the Sitemap which shows ...
      - Provide Link to Sitemap
      
-![Sitemap](sitemap.drawio.png)
+![Sitemap](sitemap.png)
 
 - This is the Wireframes which shows ...
      - Provide Link to Wireframes
